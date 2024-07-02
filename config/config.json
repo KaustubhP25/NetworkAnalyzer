@@ -1,0 +1,6 @@
+{
+    "interface": "eth0",
+    "packet_count": 100,
+    "anomaly_contamination": 0.1,
+    "log_file": "logs/alerts.log"
+}
